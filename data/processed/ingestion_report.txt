@@ -1,0 +1,8 @@
+Documents/pages with text: 483
+Total chunks: 882
+
+Chunks by source:
+- BookIIISchemesVolIIF.pdf: 513
+- agri_e_pn_2026_27.pdf: 322
+- https://agritech.tnau.ac.in/expert_system/paddy/Schemes.html: 39
+- tamilnadu.pdf: 8
